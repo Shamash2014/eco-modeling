@@ -15,7 +15,7 @@ library(plotly)
 ui <- shinyUI(fluidPage(
    
    # Application title
-   titlePanel("Old Faithful Geyser Data"),
+   titlePanel("Logistic growth model"),
    
    # Sidebar with a slider input for number of bins 
    sidebarLayout(
